@@ -61,7 +61,7 @@
         <!-- 服务治理，白名单 -->
         <dependency>
             <groupId>com.xxy.middleware</groupId>
-            <artifactId>whitelist-spring-boot-starter-test</artifactId>
+            <artifactId>whitelist-spring-boot-starter</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
     </dependencies>
