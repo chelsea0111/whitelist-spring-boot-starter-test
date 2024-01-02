@@ -22,7 +22,7 @@ public class UserInfo {
         this.age = age;
         this.address = address;
         this.code = "0000";
-        this.address = "success";
+        this.info = "success";
     }
 
     public String getCode() {
